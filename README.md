@@ -30,7 +30,9 @@ This project was inspired by and benefited from the following resources:
   - Influential video: [FEMA, Hurricane Helene and Milton](https://youtu.be/bXRFHqiUtAs)
   - Channel: [Real Estate Mindset](https://www.youtube.com/@realestatemindset)
 - **Melanie King** - American content creator and relationship coach. 
-  - Influential video: [Hurricane Milton](https://youtu.be/RjIPDO7eBz0)
+  - Influential video: 
+    - Youtube: [Hurricane Milton](https://youtu.be/RjIPDO7eBz0)
+    - Rumble: [Hurricane Milton](https://rumble.com/v5i3i8l-im-evacuating-from-historic-hurricane-milton-worse-than-helene.html)
   - Channel: [Melanie King](https://www.youtube.com/@itsmelanieking/videos)
 
 ### Tools and Technologies
