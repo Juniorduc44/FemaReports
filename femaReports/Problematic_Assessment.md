@@ -1,4 +1,4 @@
-# Implications and Problematic Aspects of FEMA Audit Report OIG-24-45
+# Implications and Problematic Aspects of FEMA Audit [Report](./Office_Of_Inspector_General_FEMA_Inadequacy_OIG-24-45-Aug24.pdf) OIG-24-45
 
 ## 1. Inefficient Use of Funds
 
