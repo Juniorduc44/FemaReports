@@ -62,6 +62,9 @@ This README file is for informational and educational purposes only. For the mos
 
 - Humanitarian Organizations
     - [American Cross](https://www.redcross.org/donate/dr/hurricanes-milton-helene.html/)
+    
+- For the People By the People
+    - [Max Velocity & The Y'all Squad](https://donorbox.org/max-velocity-yall-squad)
 - For the People By Veterans
     - North Carolina and Tennessee Recover and Relief
         - [Bitcoin Veterans](https://pay.zaprite.com/pl_Mibjv4lkEs)
