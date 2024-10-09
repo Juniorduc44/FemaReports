@@ -50,3 +50,17 @@ b) Enhance FEMA's capacity to respond to new disasters.
 c) Potentially allow for investment in improved disaster prevention and mitigation strategies.
 
 However, it's crucial to note that the actual amount available might be less, depending on legitimate ongoing needs within these programs and the costs associated with the closeout process itself.
+
+
+</br>
+
+### Back to main [page](../README.md)
+
+---
+
+<details>
+<summary>Disclaimer</summary>
+
+This README file is for informational and educational purposes only. For the most accurate and up-to-date information, please refer to the full [report](https://www.oversight.gov/report/DHS/FEMA%E2%80%99s-Inadequate-Oversight-Led-Delays-Closing-Out-Declared-Disasters) and [official](https://www.oig.dhs.gov/) DHS OIG communications.
+
+</details>
