@@ -1,10 +1,10 @@
 # Hurricane Season 2024 Notes
 
 ## LIVE Commercial Free COVERAGE
-  - [Max Velocity](https://www.youtube.com/@MaxVelocityWX)(Content creator. Storm chasers.)
-
-
-
+  - [Max Velocity](https://www.youtube.com/@MaxVelocityWX)(Content creator. Weather updates.)
+  - [Connor Croff](https://www.youtube.com/@ConnorCroff)(Content creator. Storm Chaser.Florida.)
+  - [StormRunner Media](https://www.youtube.com/@stormrunnermedia)(Content Creator. Storm Chaser.Florida.)
+  - [Storm Chaser Tyler Kurtz](https:https://www.youtube.com/@StormChaserTylerKurtz//www.youtube.com/@StormChaserTylerKurtz)(Content Creator. Storm Chaser.Florida)
 ## Overview
 This project provides resources and information related to hurricane preparedness and disaster management, with a focus on the 2024 hurricane season.
 
