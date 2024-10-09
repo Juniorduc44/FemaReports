@@ -1,10 +1,10 @@
 # FEMA Audit Report OIG-24-45: Closeout of Declared Disasters
 
-## Overview
+### Overview
 
 This repository contains the Department of Homeland Security (DHS) Office of Inspector General (OIG) audit report titled "FEMA's Inadequate Oversight Led to Delays in Closing Out Declared Disasters" (Report Number OIG-24-45), dated August 14, 2024.
 
-## Quick Report Summary
+### Quick Report Summary
 
 The audit examined FEMA's management of disaster declaration closeouts, focusing on 79 declarations from 2012 or earlier that remained open as of October 2022. Key findings include:
 
@@ -12,14 +12,14 @@ The audit examined FEMA's management of disaster declaration closeouts, focusing
 - Multiple extensions were granted without sufficient justification, delaying closures by up to 16 years.
 - Over $7 billion in unliquidated funds could potentially be returned to the Disaster Relief Fund (DRF).
 
-## Contents
+### Contents
 
 1. [Full Report PDF](./Office_Of_Inspector_General_FEMA_Inadequacy_OIG-24-45-Aug24.pdf)
 2. [Full Report Summary](./OIG_Report_summary.md)
 3. [Implications and Problematic Aspects](./Problematic_Assessment.md)
 
 
-## (OFFICIAL) CONCLUSION
+### (OFFICIAL) CONCLUSION
 #### (page 10 of [Full Report PDF](Office_Of_Inspector_General_FEMA_Inadequacy_OIG-24-45-Aug24.pdf))
 
 
@@ -36,7 +36,7 @@ The audit examined FEMA's management of disaster declaration closeouts, focusing
 </br>
 
 
-## Key Recommendations
+### Key Recommendations
 
 1. Direct FEMA Regions to:
    - Begin administrative closeout of 26 identified grant programs with expired POPs.
@@ -45,13 +45,13 @@ The audit examined FEMA's management of disaster declaration closeouts, focusing
 
 2. Consistently apply FEMA Manual 205-0-1 requirements for extension requests and approvals.
 
-## FEMA Response
+### FEMA Response
 
 FEMA concurred with both recommendations and provided estimated completion dates for corrective actions:
 - Recommendation 1: September 30, 2025
 - Recommendation 2: February 28, 2025
 
-## Usage
+### Usage
 
 This report is intended for informational purposes and to guide improvements in FEMA's disaster closeout processes. It may be of interest to:
 
@@ -61,7 +61,7 @@ This report is intended for informational purposes and to guide improvements in 
 - State and local emergency management agencies
 - Researchers and policy analysts in disaster management
 
-## Contact Information
+### Contact Information
 
 For questions or further information about this report, please contact:
 
@@ -72,6 +72,9 @@ Washington, DC 20528
 
 Email: DHS-OIG.OfficePublicAffairs@oig.dhs.gov  
 Phone: (202) 981-6000
+
+
+
 
 ## Disclaimer
 
