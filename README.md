@@ -34,6 +34,8 @@ This project was inspired by and benefited from the following resources:
     - Youtube: [Hurricane Milton](https://youtu.be/RjIPDO7eBz0)
     - Rumble: [Hurricane Milton](https://rumble.com/v5i3i8l-im-evacuating-from-historic-hurricane-milton-worse-than-helene.html)
   - Channel: [Melanie King](https://www.youtube.com/@itsmelanieking/videos)
+- **Max Velocity - Severe Weather Center** - Max Velocity provides accurate, honest, and reliable weather information across the United States. 
+  - Channel: [Max Velocity - Severe Weather Center](https://www.youtube.com/c/MaxVelocityWX)
 
 ### Tools and Technologies
 The following tools were instrumental in the creation of this project:
@@ -47,5 +49,19 @@ The following tools were instrumental in the creation of this project:
 <summary>Disclaimer</summary>
 
 This README file is for informational and educational purposes only. For the most accurate and up-to-date information, please refer to the full [FEMA report](https://www.oversight.gov/report/DHS/FEMA%E2%80%99s-Inadequate-Oversight-Led-Delays-Closing-Out-Declared-Disasters) and official [DHS OIG communications](https://www.oig.dhs.gov/).
+
+</details>
+
+<details>
+<summary>Donations</summary>
+
+- Humanitarian Organizations
+    - [American Cross](https://www.redcross.org/donate/dr/hurricanes-milton-helene.html/)
+- For the People By Veterans
+    - North Carolina and Tennessee Recover and Relief
+        - [Bitcoin Veterans](https://pay.zaprite.com/pl_Mibjv4lkEs)
+- For my Github
+    - juniorduc44@walletofsatoshi.com(Bitcoin and Bitcoin lightning enabled)
+   
 
 </details>
