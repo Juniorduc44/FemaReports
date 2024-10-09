@@ -29,6 +29,9 @@ This project was inspired by and benefited from the following resources:
 - **Real Estate Mindset** - A YouTube channel providing valuable insights into real estate investment strategies. 
   - Influential video: [FEMA, Hurricane Helene and Milton](https://youtu.be/bXRFHqiUtAs?si=UWhRDlGSxGAIZ83H)
   - Channel: [Real Estate Mindset](https://www.youtube.com/@realestatemindset)
+- **Melanie King** - American content creator and relationship coach. 
+  - Influential video: [Hurricane Milton](https://youtu.be/RjIPDO7eBz0?si=GJLDywIZDCBSe2pI)
+  - Channel: [Melanie King](https://www.youtube.com/@itsmelanieking/videos)
 
 ### Tools and Technologies
 The following tools were instrumental in the creation of this project:
