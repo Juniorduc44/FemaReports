@@ -14,9 +14,9 @@ This project provides resources and information related to hurricane preparednes
 
 ## FEMA Reports
 - [FEMA Reports Directory](./femaReports)
-- [Full Report (PDF)](./femaReports/Office_Of_Inspector_General_FEMA_Inadequacy_OIG-24-45-Aug24.pdf)
-- [Full Report Summary](./femaReports/OIG_Report_summary.md)
-- [Implications and Problematic Aspects](./femaReports/Problematic_Assessment.md)
+  - [Full Report (PDF)](./femaReports/Office_Of_Inspector_General_FEMA_Inadequacy_OIG-24-45-Aug24.pdf)
+  - [Full Report Summary](./femaReports/OIG_Report_summary.md)
+  - [Implications and Problematic Aspects](./femaReports/Problematic_Assessment.md)
 
 ---
 
