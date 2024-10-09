@@ -14,8 +14,8 @@ The audit examined FEMA's management of disaster declaration closeouts, focusing
 
 ## Contents
 
-1. [Full Report](./Office_Of_Inspector_General_FEMA_Inadequacy_OIG-24-45-Aug24.pdf)
-2. [Full Report](./OIG_Report_summary.md)
+1. [Full Report PDF](./Office_Of_Inspector_General_FEMA_Inadequacy_OIG-24-45-Aug24.pdf)
+2. [Full Report Summary](./OIG_Report_summary.md)
 
 
 </br>
@@ -61,4 +61,4 @@ Phone: (202) 981-6000
 
 ## Disclaimer
 
-This README file is for informational purposes only. For the most accurate and up-to-date information, please refer to the full report and [official](https://www.oversight.gov/report/DHS/FEMA%E2%80%99s-Inadequate-Oversight-Led-Delays-Closing-Out-Declared-Disasters) DHS OIG communications.
+This README file is for informational and educational purposes only. For the most accurate and up-to-date information, please refer to the full [report](https://www.oversight.gov/report/DHS/FEMA%E2%80%99s-Inadequate-Oversight-Led-Delays-Closing-Out-Declared-Disasters) and [official](https://www.oig.dhs.gov/) DHS OIG communications.
