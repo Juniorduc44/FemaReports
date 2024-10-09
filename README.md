@@ -1,5 +1,10 @@
 # Hurricane Season 2024 Notes
 
+## LIVE Commercial Free COVERAGE
+  - [Max Velocity](https://www.youtube.com/@MaxVelocityWX)(Content creator. Storm chasers.)
+
+
+
 ## Overview
 This project provides resources and information related to hurricane preparedness and disaster management, with a focus on the 2024 hurricane season.
 
