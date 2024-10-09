@@ -1,4 +1,4 @@
-# Detailed Analysis of FEMA Audit Report OIG-24-45
+# Detailed Analysis of FEMA Audit [Report](./Office_Of_Inspector_General_FEMA_Inadequacy_OIG-24-45-Aug24.pdf) OIG-24-45
 
 ## 1. Purpose and Scope
 
