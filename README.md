@@ -1,10 +1,10 @@
 # FEMA Audit Report OIG-24-45: Closeout of Declared Disasters
 
-## Overview
+## (NON-OFFICIAL)Overview
 
 This repository contains the Department of Homeland Security (DHS) Office of Inspector General (OIG) audit report titled "FEMA's Inadequate Oversight Led to Delays in Closing Out Declared Disasters" (Report Number OIG-24-45), dated August 14, 2024.
 
-## Quick Report Summary
+## (NON-OFFICIAL)Quick Report Summary
 
 The audit examined FEMA's management of disaster declaration closeouts, focusing on 79 declarations from 2012 or earlier that remained open as of October 2022. Key findings include:
 
@@ -17,6 +17,20 @@ The audit examined FEMA's management of disaster declaration closeouts, focusing
 1. [Full Report PDF](./Office_Of_Inspector_General_FEMA_Inadequacy_OIG-24-45-Aug24.pdf)
 2. [Full Report Summary](./OIG_Report_summary.md)
 3. [Implications and Problematic Aspects](./Problematic_Assessment.md)
+
+
+## (OFFICIAL) CONCLUSION
+#### (page 10 of [Full Report PDF](Office_Of_Inspector_General_FEMA_Inadequacy_OIG-24-45-Aug24.pdf))
+
+
+> As of July 2023, the DRF was projected to have a $4.3 billion deficit by the end of fiscal year
+> 2023.15 Continued delays in FEMA closing older disasters put an added strain on the primary
+> source of funding for the Federal Government’s disaster relief program by withholding the return
+> of $7.1 billion in potential monetary benefits, as detailed in Appendix D. Without stronger
+> licies and improved oversight, FEMA risks continuing to close disaster programs in an untimely
+> manner. Doing so prevents taxpayer dollars associated with expired or excessively extended
+> grants from being returned to the DRF.
+
 
 </br>
 </br>
