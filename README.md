@@ -1,4 +1,4 @@
-# Hurricane Season 2024 Project
+# Hurricane Season 2024 Notes
 
 ## Overview
 This project provides resources and information related to hurricane preparedness and disaster management, with a focus on the 2024 hurricane season.
