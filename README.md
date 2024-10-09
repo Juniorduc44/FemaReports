@@ -16,7 +16,7 @@ The audit examined FEMA's management of disaster declaration closeouts, focusing
 
 1. [Full Report PDF](./Office_Of_Inspector_General_FEMA_Inadequacy_OIG-24-45-Aug24.pdf)
 2. [Full Report Summary](./OIG_Report_summary.md)
-
+3. [Implications and Problematic Aspects](./Problematic_Assessment.md)
 
 </br>
 </br>
