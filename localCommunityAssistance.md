@@ -13,10 +13,4 @@
   > electricity, and bathrooms available. It is 
   > located in Live Oak fl. All is free of charge!!"
 
-  
-    
-
-<Summary>Jenifer Torres(Local)</Summary>
-
-
 </details>
