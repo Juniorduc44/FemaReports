@@ -15,6 +15,7 @@ This project provides resources and information related to hurricane preparednes
 
 ## Helpful Resources
 - [National Weather Service](https://www.weather.gov/iwx/noaaweatherradio)(radio frequencies. weather updates. education.)
+- [Local Community Assistance](./localCommunityAssistance.md)(Food. Electricity. Shelter)
 
 ### Checking Danger Zones 
 - [Florida Division of Emergency Management](https://www.floridadisaster.org/)
