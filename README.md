@@ -8,6 +8,7 @@
   - [Storm Chaser Brandon Copic](https://www.youtube.com/@BrandonCopicWx)(Content Creator.Storm Chaser. Florida)
       - mentioned: may have people stuck on roof in Sarasota Florida.(@21:04 EST)
   - [Noah Junot](https://www.facebook.com/StormChaserNoahJunot)(Content Creator. Storm Chaser. Florida)
+    - phone possibly died by 22:10 EST
 ## Overview
 This project provides resources and information related to hurricane preparedness and disaster management, with a focus on the 2024 hurricane season.
 
