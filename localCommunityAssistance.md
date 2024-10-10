@@ -1,7 +1,7 @@
 
 <details>
 
-<Summary>Jenifer Torres(Local)</Summary>
+<Summary>Jenifer Torres(Florida Local)</Summary>
   
   - Number: (386)-688-6983
   - original post: https://x.com/Sassafrass_84/status/1844130194858312078
@@ -16,9 +16,26 @@
 </details>
 
 
+<details>
+
+<Summary>podcaster missmothership(NC, SC, TN, VA)</Summary>
+  
+  - FOR RESCUE IN West North Carolina call:
+    - 211 
+    - 1-888-892-1162
+  - original post: https://x.com/rgar152/status/1843319934526353655
+</details>
+
+
+
+
+
+
+
+
 </br>
 
-### Back to main [page](../README.md)
+### Back to main [page](./README.md)
 
 ---
 
