@@ -33,9 +33,6 @@ The audit examined FEMA's management of disaster declaration closeouts, focusing
 
 #### Plain English version:
 
-Certainly. Here's a simplified version of that text:
-
-
 
 > As of July 2023, the Disaster Relief Fund (DRF) was expected to be short $4.3 billion by the end of the 
 > budget year. FEMA is taking too long to close out old disaster cases, which is causing problems. This delay 
