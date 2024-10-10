@@ -8,11 +8,8 @@
 ## Overview
 This project provides resources and information related to hurricane preparedness and disaster management, with a focus on the 2024 hurricane season.
 
-## Contents
-- [Helpful Resources](#helpful-resources)
-- [FEMA Reports](#fema-reports)
-
 ## Helpful Resources
+- [National Weather Service]https://www.weather.gov/iwx/noaaweatherradio(radio frequencies to listen on)
 
 ### Checking Danger Zones 
 - [Florida Division of Emergency Management](https://www.floridadisaster.org/)
