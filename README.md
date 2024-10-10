@@ -21,7 +21,7 @@ This project provides resources and information related to hurricane preparednes
 - [Local Community Assistance](./localCommunityAssistance.md)(Food. Electricity. Shelter)
 - [Do's and Dont's](./dosDonts.md)
 - [Tropical Tidbits](https://www.tropicaltidbits.com/)(current storms. Aircraft Recon. Satellite Imagery. Analysis Tools)
-- Helene Recovery Google [Docs](https://docs.google.com/spreadsheets/d/1eT6Do9b_P-5okIB52MGIQLCmQc6_wge1-0lHOSy0-oA/htmlview#)(NC, TN, SC, VA)
+- [Helene Recovery Google Docs](https://docs.google.com/spreadsheets/d/1eT6Do9b_P-5okIB52MGIQLCmQc6_wge1-0lHOSy0-oA/htmlview#)(NC, TN, SC, VA)
 ### Checking Danger Zones 
 - [Florida Division of Emergency Management](https://www.floridadisaster.org/)
 
