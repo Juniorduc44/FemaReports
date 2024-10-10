@@ -1,6 +1,7 @@
 # Hurricane Season 2024 Notes
 
 ## LIVE Commercial Free COVERAGE
+  - [Ryan Hall, Y'all](https://www.youtube.com/@RyanHallYall)(Content Creator. Pro Weather Updates. Florida)
   - [Max Velocity](https://www.youtube.com/@MaxVelocityWX)(Content Creator. Weather Updates.)
   - [Connor Croff](https://www.youtube.com/@ConnorCroff)(Content Creator. Storm Chaser. Florida.)
   - [StormRunner Media](https://www.youtube.com/@stormrunnermedia)(Content Creator. Storm Chaser. Florida.)
@@ -9,7 +10,8 @@
       - mentioned: may have people stuck on roof in Sarasota Florida.(@21:04 EST)
   - [Noah Junot](https://www.facebook.com/StormChaserNoahJunot)(Content Creator. Storm Chaser. Florida)
     - phone possibly died or dying. 22:16 EST
-
+  - [Storm Chaser Corey Gerken](https://www.youtube.com/@coreygerkenwx)(Content Creator. Storm Chaser. Florida)
+  
 ## Overview
 This project provides resources and information related to hurricane preparedness and disaster management, with a focus on the 2024 hurricane season.
 
