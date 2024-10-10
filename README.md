@@ -2,6 +2,7 @@
 
 ## LIVE Commercial Free COVERAGE
   - [Ryan Hall, Y'all](https://www.youtube.com/@RyanHallYall)(Content Creator. Pro Weather Updates. Florida)
+  - [Paramount Weather](https://www.youtube.com/@ParamountProductions)(Content Creator. Pro Storm Chaser. Florida)  
   - [Max Velocity](https://www.youtube.com/@MaxVelocityWX)(Content Creator. Weather Updates.)
   - [Connor Croff](https://www.youtube.com/@ConnorCroff)(Content Creator. Storm Chaser. Florida.)
   - [StormRunner Media](https://www.youtube.com/@stormrunnermedia)(Content Creator. Storm Chaser. Florida.)
